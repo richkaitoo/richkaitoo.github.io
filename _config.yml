@@ -113,15 +113,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Ernest Essel-Kaitoo"
+  avatar           : "/assets/images/ernest.jpg" # path of avatar image, e.g. "/assets/images/ernest.jpg"
+  bio              : "Data scientist with a passion for uncovering insights from data. Skilled in Python, SQL, and machine learning."
+  location         : "Chicago, IL"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:ernestesselkaitoo@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
