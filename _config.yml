@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Rich Data Blog"
+title                    : "Ernest Essel-Kaitoo | Data Science Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ernest Essel-Kaitoo"
-description              : "An amazing website."
+description              : "A professional portfolio for Ernest Essel-Kaitoo, a data scientist specializing in building data-driven solutions. Explore projects that leverage machine learning, Python, and SQL to deliver actionable insights and business impact."
 url                      : "https://richkaitoo.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "richkaitoo/richkaitoo"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
