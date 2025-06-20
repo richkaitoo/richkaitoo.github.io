@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Ernest Essel-Kaitoo"
-  avatar           : "/assets/images/ernest.jpg" # path of avatar image, e.g. "/assets/images/ernest.jpg"
+  avatar           : "/assets/images/ernest.png" # path of avatar image, e.g. "/assets/images/ernest.jpg"
   bio              : "Data scientist with a passion for uncovering insights from data. Skilled in Python, SQL, and machine learning."
   location         : "Chicago, IL"
   email            :
