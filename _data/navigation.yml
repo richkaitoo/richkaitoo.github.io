@@ -5,7 +5,9 @@ main:
     url: /
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Blog"
+    url: /Blog/
   - title: "About"
     url: /about/
-  # - title: "Resume"
-  #   url: /assets/pdf/ernest_essel_kaitoo_resume.pdf # Example for a resume link
+  - title: "Resume"
+    url: /resume/
