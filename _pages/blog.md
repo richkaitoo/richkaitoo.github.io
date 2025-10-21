@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /about/
+permalink: /blog/
 title: "About Me"
 author_profile: true
 ---
