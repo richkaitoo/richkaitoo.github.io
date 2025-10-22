@@ -21,3 +21,22 @@ header:
   overlay_image: "/assets/images/ml-project-banner.jpg"
   caption: "Exploring prediction with Random Forest"
 ---
+
+
+
+``` r
+## if you haven't already installed jobbR
+# devtools::install_github("dashee87/jobbR")
+
+## loading the packages we'll need
+require(jobbR)
+require(ggplot2)
+
+# collecting data scientist jobs in London from the Indeed API
+dataScientists <- jobSearch(publisher = "yourpublisherID", query = "data+scientist",
+country = "uk", location = "london", all = TRUE)
+
+# collecting data analyst jobs in London from the Indeed API
+dataAnalysts <- jobSearch(publisher = "yourpublisherID", query = "data+analyst",
+country = "uk", location = "london", all = TRUE)
+```
