@@ -1,13 +1,12 @@
-  # _data/navigation.yml
-# main navigation
+# main links
 main:
-  - title: "Home"
-    url: /
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "Blog"
-    url: /Blog/
-  - title: "About"
-    url: /about/
-  - title: "Resume"
-    url: /resume/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
