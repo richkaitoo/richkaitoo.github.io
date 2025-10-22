@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ernest Essel-Kaitoo"
 description              : "Personal blog to explore the world of data science."
-url                      : "https://ernselito.github.io/"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ernselito.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Ernest Essel-Kaitoo"
   avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data scientist and Machine Learning Specialist driving business decisions with data."
+  bio              : "Transforming Complex Data into Actionable Insights and Intelligent Systems"
   location         : "Phoenix AZ"
   email            :
   links:
