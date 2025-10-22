@@ -2,11 +2,6 @@
 layout: single
 permalink: /portfolio/
 title: "Portfolio"
-url: /portfolio/
-- title: "Blog"
-url: /blog/
-- title: "About"
-url: /about/
 author_profile: true
 ---
 

@@ -1,12 +1,13 @@
-# main links
+  # _data/navigation.yml
+# main navigation
 main:
+  - title: "Home"
+    url: /
   - title: "Portfolio"
     url: /portfolio/
   - title: "Blog"
-    url: /blog/
+    url: /Blog/
   - title: "About"
     url: /about/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Resume"
+    url: /resume/
