@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Ernest Essel-Kaitoo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data scientist and Machine Learning Specialist driving business decisions with data."
   location         : "Phoenix AZ"
   email            :
