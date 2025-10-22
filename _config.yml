@@ -12,17 +12,17 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" #"default" # , "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Driven by AI and Machine Learning"
+title                    : "Machine Learning & Beyond"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ernest Essel-Kaitoo"
-description              : "personal blog to explore the world of data science."
-url                      : "https://ernselito/ernselito.github.io" # the base hostname & protocol for your site e.g. "https://ernselito/ernselito.github.io"
+description              : "Machine Learning & Beyond"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ernest Essel-Kaitoo"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data scientist and Machine Learning Specialist driving business decisions with data.."
-  location         : "Phoenix"
-  email            : "ernselito@gmail.com"
+  bio              : "Data driven decision maker"
+  location         : "Phoenix, AZ"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
