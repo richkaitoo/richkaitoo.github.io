@@ -8,8 +8,6 @@ paginate: 10
 paginate_path: "/blog/page:num/"
 ---
 
-{% include base_path %}
-
 {% assign all_posts = site.posts | concat: site.projects | sort: 'date' | reverse %}
 
 {% capture written_year %}None{% endcapture %}
@@ -26,4 +24,3 @@ paginate_path: "/blog/page:num/"
 {% endfor %}
 
 {% include pagination.html %}
-
