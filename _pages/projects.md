@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: single
 title: "Projects & Research"
 permalink: /projects/
 excerpt: "A showcase of my projects, research, and work in Machine Learning and Data Science."
