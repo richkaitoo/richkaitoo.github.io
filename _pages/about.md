@@ -21,6 +21,16 @@ I’m a **data-driven researcher** and **machine learning enthusiast** passionat
 You can view or download my resume here:  
 [**Download Resume (PDF)**](/assets/files/Ernest_Essel_Kaitoo_2025_resume.pdf)
 
+<iframe 
+  src="{{ '/assets/files/Ernest_Essel_Kaitoo_2025_resume.pdf' | relative_url }}" 
+  width="100%" 
+  height="850" 
+  style="border:none;"
+>
+  This browser does not support PDFs. 
+  Please download the PDF to view it: 
+  <a href="{{ '/assets/files/Ernest_Essel-Kaitoo_Resume.pdf' | relative_url }}">Download Resume</a>.
+</iframe>
 
 ---
 
@@ -43,19 +53,6 @@ You can view or download my resume here:
 - **Cloud Services:** AWS, Azure 
  
 ---
-### 📄 Resume
-
-<iframe 
-  src="{{ '/assets/files/Ernest_Essel_Kaitoo_2025_resume.pdf' | relative_url }}" 
-  width="100%" 
-  height="850" 
-  style="border:none;"
->
-  This browser does not support PDFs. 
-  Please download the PDF to view it: 
-  <a href="{{ '/assets/files/Ernest_Essel-Kaitoo_Resume.pdf' | relative_url }}">Download Resume</a>.
-</iframe>
-
 
 ### 📫 Get in Touch
 
