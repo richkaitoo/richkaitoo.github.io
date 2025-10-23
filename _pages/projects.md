@@ -4,6 +4,7 @@ title: "Projects & Research"
 permalink: /projects/
 excerpt: "A showcase of my projects, research, and work in Machine Learning and Data Science."
 author_profile: true
+classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
