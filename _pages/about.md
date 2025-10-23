@@ -3,6 +3,7 @@ layout: single
 title: "About & Resume"
 permalink: /about/
 author_profile: true
+classes: wide
 ---
 
 ## 👋 Hi, I’m Ernest Essel-Kaitoo
