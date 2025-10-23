@@ -4,7 +4,6 @@ title: "My First Machine Learning Project"
 excerpt: "A walkthrough of my predictive model and how I improved accuracy using feature engineering."
 date: 2025-01-01
 author: Ernest Essel-Kaitoo
-author_profile: true
 read_time: true
 comments: true
 share: true
@@ -17,7 +16,18 @@ header:
 class: wide
 ---
 
-
+layout: single
+title: "About"
+permalink: /about/
+excerpt: "A showcase of my projects, research, and work in Machine Learning and Data Science."
+author_profile: true
+classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/ml-project-banner.jpg
+  caption: "Exploring Machine Learning, Data Science, and Research Projects"
+  
 The man is here to function as well known man
 
 ``` r
