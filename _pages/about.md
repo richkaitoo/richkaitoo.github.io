@@ -16,6 +16,12 @@ header:
 
 I’m a **data-driven researcher** and **machine learning enthusiast** passionate about using technology, data, and leadership to impact lives positively. 
 
+### 📄 Resume
+
+You can view or download my resume here:  
+[**Download Resume (PDF)**](/assets/files/Ernest_Essel_Kaitoo_2025_resume.pdf)
+
+
 ---
 
 #### Research Interests:
@@ -36,12 +42,6 @@ I’m a **data-driven researcher** and **machine learning enthusiast** passionat
 - **Data Science:** Simulation, Data Cleaning, Feature Engineering, Imputation
 - **Cloud Services:** AWS, Azure 
  
----
-### 📄 Resume
-
-You can view or download my resume here:  
-[**Download Resume (PDF)**](/assets/files/Ernest_Essel_Kaitoo_2025_resume.pdf)
-
 ---
 
 ### 📫 Get in Touch
