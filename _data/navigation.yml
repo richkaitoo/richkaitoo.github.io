@@ -1,10 +1,10 @@
 # Main navigation links
 main:
-  - title: "About & Resume"
-    url: /about/               # Combine About and Resume into one page or section
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
   - title: "Projects"
-    url: /collection-archive/
+    url: /projects/
   - title: "Contact"
     url: /contact/
+  - title: "About & Resume"
+    url: /about/               # Combine About and Resume into one page or section
