@@ -3,6 +3,7 @@ layout: single
 title: "Contact"
 permalink: /contact/
 author_profile: true
+classes: wide
 ---
 
 ## 👋 Hi, I’m Ernest Essel-Kaitoo
@@ -59,3 +60,4 @@ You can view or download my resume here:
 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
 🌐 **LinkedIn:** [linkedin.com/in/ernest-essel-kaitoo](#)  
 🐙 **GitHub:** [github.com/ernest-essel-kaitoo](#)
+
