@@ -9,10 +9,6 @@ read_time: true
 comments: true
 share: true
 related: true
-tags: 
-  - Machine Learning
-  - Data Science
-  - Python
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -22,6 +18,7 @@ class: wide
 ---
 
 
+The man is here to function as well known man
 
 ``` r
 ## if you haven't already installed jobbR
