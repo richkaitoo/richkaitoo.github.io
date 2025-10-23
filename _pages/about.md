@@ -8,52 +8,35 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/ml-project-banner.jpg
+  overlay_image: /assets/images/about.jpg
   caption: "Exploring Machine Learning, Data Science, and Research Projects"
 ---
 
-## 👋 Hi, I’m Ernest Essel-Kaitoo
+## 👋 Hi, I’m Ernest Essel-Kaitoo, PhD
 
-I’m a **data-driven researcher**, **machine learning enthusiast**, and **church leader** passionate about using technology, data, and faith-based leadership to impact lives positively. I currently serve as the **Men’s Ministry Leader at MHC**, where I guide men in spiritual growth and mentorship.
+I’m a **data-driven researcher** and **machine learning enthusiast** passionate about using technology, data, and leadership to impact lives positively. 
 
 ---
 
-### 🎓 Academic & Research Background
+#### Research Interests:
 
-I’m a **Ph.D. student** focusing on **missing data mechanisms and imputation methods** — particularly how different **distance metrics in K-Nearest Neighbors (KNN)** affect imputation performance under varying data conditions such as dimensionality and missingness.  
-
-My recent research explores:
-- Performance of **Mahalanobis, Euclidean, Manhattan, Minkowski, and Chebyshev distances** in KNN imputation.  
-- Comparative efficiency of **Bayesian vs. Maximum Likelihood** estimation.  
-- Effects of **sample size**, **intraclass correlation**, and **data noise** on model reliability.
+- Predictive modeling
+- Classification modeling
+- Regression analysis
+- Machine learning models
+- Large Language Models (LLMs)
+- Statistical modeling
 
 ---
 
 ### 💻 Technical Skills
 
 - **Programming & Tools:** Python, R, Streamlit, Jupyter, Git, LaTeX  
-- **Machine Learning:** Regression, KNN, Random Forest, BERT, Gradient Boosting  
-- **Data Science:** Simulation, Data Cleaning, Feature Engineering, Imputation  
-- **Web Development:** Jekyll, Markdown, HTML, CSS  
-
+- **Machine Learning:** Regression, KNN, Random Forest, BERT, Gradient Boosting, LLM  
+- **Data Science:** Simulation, Data Cleaning, Feature Engineering, Imputation
+- **Cloud Services:** AWS, Azure 
+ 
 ---
-
-### ⚙️ Projects
-
-- 🧮 **KNN Imputation Simulation Framework** — Evaluating how distance metrics impact missing data recovery.  
-- 🏡 **California Housing Price Prediction** — Comparing multiple regression models for predictive accuracy.  
-- 🤖 **Sentiment Classification Using BERT** — Fine-tuned BERT model for text sentiment prediction.  
-
-👉 Check out all projects on my [**Projects Page**](/collection-archive/).
-
----
-
-### 🙏 Ministry & Leadership
-
-As a Deacon and Men’s Ministry Leader, I oversee the **Encounter with the Holy Ghost** weekly program and coordinate discipleship and mentorship initiatives aimed at empowering men to grow in faith and service.
-
----
-
 ### 📄 Resume
 
 You can view or download my resume here:  
