@@ -2,7 +2,7 @@
 layout: single
 title: "My First Machine Learning Project"
 excerpt: "A walkthrough of my predictive model and how I improved accuracy using feature engineering."
-date: 2025-10-22
+date: 2025-01-01
 author: Ernest Essel-Kaitoo
 author_profile: true
 read_time: true
