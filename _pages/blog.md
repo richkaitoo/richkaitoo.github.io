@@ -14,7 +14,7 @@ class: wide
     {% if year != written_year %}
       {% assign written_year = year %}
       <!-- Optional: Uncomment below to display year headings -->
-      {# <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2> #}
+      
     {% endif %}
     {% include archive-single.html %}
   {% endfor %}
