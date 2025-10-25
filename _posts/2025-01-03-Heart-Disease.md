@@ -70,7 +70,7 @@ plt.title('Correlation Matrix')
 plt.show()
 ```
 
-![Correlatio Map](assets/images/correlation_matrix.png)
+![Correlatio Map](/assets/images/correlation_matrix.png)
 
 The output suggest the following:
 
