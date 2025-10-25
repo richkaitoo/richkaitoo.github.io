@@ -34,7 +34,7 @@ The dataset that will be used for this project is fetched from [Kaggle](https://
 
 The data is loaded for the Kaggle API using the following
 
-```{python}
+```python
 print('Data source import complete.')
 data_path = kagglehub.dataset_download('johnsmith88/heart-disease-dataset')
 heart = pd.read_csv(data_path + '/heart.csv')
@@ -67,7 +67,7 @@ The target variable for this study is chosen below.
 #### Examining relationships between variables
 
 The visual relationship between the numerical variables is explored. The heatmaps examining the relationships between numerical variables is shown below.
-```{python}
+```python
 corr_matrix = heart.corr()
 plt.figure(figsize=(10, 8))
 sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', square=True)
@@ -87,7 +87,7 @@ We will move on to the methodology that will be used in answering the research q
 ##  Methodology
 The section answers the step by step methods that was implemented to answer the research questions.
 First of all, to avoid data leaking, the data spliting will take place before all other transformations are applied to the data. 
-```{python}
+```python
 X_train, X_test, y_train, y_test = train_test_split(heart.drop('target', axis=1), heart['target'], test_size=0.2, random_state=42)
 ```
 The dataset is splitted into 80-20 train test set. 
@@ -100,7 +100,7 @@ The function below process the data into:
   - One-hot encoding for categorical variables
   - Standard scaling for numerical features
 
-```{python}
+```python
 def preprocess_data(X_train, X_test):
     categorical_variables = ['sex', 'cp', 'fbs', 'restecg', 'exang', 'slope', 'ca', 'thal']
     numerical_columns = ['trestbps', 'chol', 'thalach', 'oldpeak']
@@ -156,7 +156,7 @@ Since the target is a binary  (0 = no disease, 1 = disease), this suggest that i
 
 The following represent how the models are set up. 
 
-```{python}
+```python
 def define_model():
     models = {
         "Logistic Regression": LogisticRegression(max_iter=1000),
@@ -211,7 +211,7 @@ From the above output, it was found that, the models can be categorized as:
 ### 3. Model Selection Process
 The section marks the process of crossvalidating and fine tuning the model. We start of by cross validating and the next section will be the hyperparametr tuning.
 
-```{python}
+```python
 def train_and_evaluate_models(X_train_df, y_train, X_test_df, y_test, models = define_model()):
     
     # Train and evaluate the models with cross-validation
@@ -253,7 +253,7 @@ These three models stand out from the rest due to their high accuracy and cross-
 
 Hence, these three models will be selected for further hyperparameter tuning.
 
-```{python}
+```python
 from sklearn.model_selection import GridSearchCV
 
 # Define hyperparameter grids for top 3 models
