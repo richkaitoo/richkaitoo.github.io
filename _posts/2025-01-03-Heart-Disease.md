@@ -8,6 +8,12 @@ tags:
   - science
   - analyst
   - Python
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: "/assets/images/heart.jpeg"
+  caption: "Exploring prediction with Random Forest"
+class: wide
 ---
 
 
@@ -22,7 +28,7 @@ In order to identify the most effective machine learning model for heart disease
 - Q2. Among the models selected, does each of their perfoamce change after hyperparameter tuning?
 - Q3. How does using k-fold cross-validation provide a more robust estimate of model performance compared to a single train-test split?
 
-
+### Full Code: [Github](https://github.com/ernselito/Heart-Attack-Risk-Prediction/blob/main/Heart_Disease_Prediction.ipynb)
 
 ##  Dataset
 The dataset that will be used for this project is fetched from [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset). According to the publisher on Kaggle, the dataset consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. The structure of the data is summarized below.
