@@ -12,7 +12,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: "/assets/images/heart.jpeg"
-  caption: "Exploring prediction with Random Forest"
 class: wide
 ---
 
