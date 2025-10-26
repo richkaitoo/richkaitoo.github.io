@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Evaluating Predictive Model Performance for Cardio Health Services Demand: A Comparative Analysis"
-excerpt: "A walkthrough of my predictive model and how I improved accuracy using feature engineering."
 date: 2025-01-03
 categories:
   - data science
