@@ -1,5 +1,6 @@
 ---
-title: ""
+layout: single
+title: "Evaluating Predictive Model Performance for Cardio Health Services Demand: A Comparative Analysis"
 categories:
   - data science
 tags:
@@ -14,7 +15,7 @@ header:
   overlay_image: "/assets/images/heart.jpeg"
 class: wide
 ---
-# Evaluating Predictive Model Performance for Cardio Health Services Demand: A Comparative Analysis"
+# Evaluating Predictive Model Performance for Cardio Health Services Demand: A Comparative Analysis
 
 
 ## Project Overview
