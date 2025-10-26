@@ -15,8 +15,6 @@ header:
   overlay_image: "/assets/images/heart.jpeg"
 class: wide
 ---
-# Evaluating Predictive Model Performance for Cardio Health Services Demand: A Comparative Analysis
-
 
 ## Project Overview
 According to CDC, Heart disease is the leading cause of death for people of most racial and ethnic groups in the United States. Reports shows that about 805,000 people in the United States have a heart attack. Among these huge numbers, CDC states that 605,000  are first heart attack cases, and rest of the 200,000 happen to be people who have already had a heart attack. Looking at these numbers, available data is being modellled such that the case is being detected before it happens, it will save alot of lives and the presure on facilities that serves these people will reduces drastically. In view this, this research uses available data to model heart attack. 
