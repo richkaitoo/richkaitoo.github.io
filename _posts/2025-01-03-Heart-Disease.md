@@ -12,11 +12,12 @@ tags:
   - analyst
   - Python
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: "/assets/images/heart.jpeg"
+  overlay_image: /assets/images/heart.jpeg
+  overlay_filter: 0.3
+  show_title: true
 class: wide
 ---
+
 
 # Problem Overview
 
