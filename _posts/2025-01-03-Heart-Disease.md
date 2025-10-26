@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Evaluating Predictive Model Performance for Cardio Health Services Demand: A Comparative Analysis"
+Excerpt: "This study compares various machine learning classification models that have the capability to predict heart disease."
 date: 2025-01-03
 categories:
   - data science
