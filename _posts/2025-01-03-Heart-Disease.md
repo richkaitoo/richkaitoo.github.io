@@ -16,7 +16,7 @@ header:
 class: wide
 ---
 
-## Project Overview
+# Project Overview
 According to CDC, Heart disease is the leading cause of death for people of most racial and ethnic groups in the United States. Reports shows that about 805,000 people in the United States have a heart attack. Among these huge numbers, CDC states that 605,000  are first heart attack cases, and rest of the 200,000 happen to be people who have already had a heart attack. Looking at these numbers, available data is being modellled such that the case is being detected before it happens, it will save alot of lives and the presure on facilities that serves these people will reduces drastically. In view this, this research uses available data to model heart attack. 
 
 
@@ -48,7 +48,7 @@ ge	sex	cp	trestbps	chol	fbs	restecg	thalach	exang	oldpeak	slope	ca	thal	target
 
 The above shows the first five rows of the dataset. 
 
-## Exploratoty Analysis
+# Exploratoty Analysis
 The data structure was checked, missingness checked and follwoing summary is provided.   
 - **Size**: 1,025 records with 14 features
 - **No Missing Values**: Complete dataset with no null values
@@ -83,7 +83,7 @@ The output suggest the following:
 
 We will move on to the methodology that will be used in answering the research question.
 
-##  Methodology
+#  Methodology
 The section answers the step by step methods that was implemented to answer the research questions.
 First of all, to avoid data leaking, the data spliting will take place before all other transformations are applied to the data. 
 ```python
