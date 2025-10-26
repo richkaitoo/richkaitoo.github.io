@@ -14,7 +14,6 @@ tags:
 header:
   overlay_image: /assets/images/heart.jpeg
   overlay_filter: 0.3
-  show_title: true
 class: wide
 ---
 
