@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Evaluating Predictive Model Performance for Cardio Health Services Demand: A Comparative Analysis"
-Excerpt: "This study compares various machine learning classification models that have the capability to predict heart disease."
+excerpt: "This study compares various machine learning classification models that have the capability to predict heart disease."
 date: 2025-01-03
 categories:
   - data science
@@ -11,8 +11,15 @@ tags:
   - science
   - analyst
   - Python
-class: wide
+classes: wide
+header:
+  overlay_image: /assets/images/heart.jpeg  
+  overlay_filter: 0.3  # darkens the image for better text contrast (0 = no filter, 1 = black)
+  caption: ""  # leave empty if you don’t want a caption
+  show_overlay_excerpt: false
+  image_description: "Heart disease prediction research"
 ---
+
 
 
 # Problem Overview
