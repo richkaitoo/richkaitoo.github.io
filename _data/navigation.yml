@@ -4,7 +4,7 @@ main:
     url: /blog/
   - title: "Projects"
     url: /projects/
-  # - title: "Contact"
-  #   url: /contact/
+  - title: "Contact"
+    url: /portfolio/
   - title: "About & Resume"
     url: /about/               # Combine About and Resume into one page or section
