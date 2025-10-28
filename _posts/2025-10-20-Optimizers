@@ -42,7 +42,7 @@ The dimension of the training dataset is (60000, 28, 28). In this case, I have s
 
 A quick view of the data using the code below yields the picture below: 
 
-### Insert Image
+![Exploratory](/assets/images/mnistexploratory.png)
 
 Before I feed the images into the neural network, I normalize the pixel values by dividing them by 255. This scales all pixel values from the original range of 0–255 down to a range of 0–1. This step helps my model train faster and more effectively by keeping the input values small and consistent, which improves the stability of the learning process.
 
@@ -55,7 +55,7 @@ validation_images = preprocess_images(validation_images)
 X_test = preprocess_images(X_test)
 ```
 
-# Modelling
+![Output](/assets/images/Adams.png)
 
 The code below shows the list of the different optimizers used for this analysis. 
 
@@ -91,7 +91,7 @@ Optimizer Comparison: The final line compares the performance of four optimizers
 - RMSprop: Achieved an accuracy of 0.1000
 - Adagrad: Achieved an accuracy of 0.1000
 
-### Insert Picture Here 
+![Output](/assets/images/optimizercomp.png)
 
 Based on the output, Adam seems to be the best-performing optimizer for your model, with an accuracy of 0.8476. The other optimizers (SGD, RMSprop, and Adagrad) resulted in significantly lower accuracy values. Hence the Adam will be chosen for hyperparameter tuning.
 
