@@ -43,12 +43,12 @@ The above would yield the Historical stock data (Open, High, Low, Close, Volume)
 # Exploration
 
 The exploratory data analysis (EDA) performed to visualize the open and close price. The graph below shows the graph from the three companies used in this study. 
-![Closing_and_Openning]()
+![Closing_and_Openning](/assets/images/closeopen.png)
 
 
 We move on to explore the volume of each of the companies. The diagram below shows it.
 
-![Volume]()
+![Volume](/assets/images/volume.png)
 
 # Data Preprocessing
 The datasets is splitted into training (80%) and testing (20%) sets. 
