@@ -1,3 +1,25 @@
+---
+layout: single
+title: " Effect of Different Optimizers on Classification"
+excerpt: "This study compares various five optimizers"
+date: 2025-10-20
+categories:
+  - projects
+tags:
+  - data
+  - scientist
+  - science
+  - analyst
+  - Python
+classes: wide
+header:
+  overlay_image: /assets/images/heart.jpeg  
+  overlay_filter: 0.3  # darkens the image for better text contrast (0 = no filter, 1 = black)
+  caption: ""  # leave empty if you don’t want a caption
+  show_overlay_excerpt: false
+  image_description: "Heart disease prediction research"
+---
+
 # Problem Overview
 
 Deep learning has become a crucial component of many companies' data analysis pipelines. To further enhance the performance of deep learning models, researchers have developed various optimization algorithms. An optimizer improves the model by adjusting its parameters (weights and biases) to minimize the loss function value. Having multiple optimizers available means that different algorithms can be used to adjust the parameters to minimize the loss function value. Hence, this study provides an experiment with five optimizers to assess their performance on a neural network classifier. The following Optimizers will be used:
