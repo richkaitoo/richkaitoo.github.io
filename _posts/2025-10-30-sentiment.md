@@ -1,3 +1,20 @@
+---
+layout: single
+title: "Sentiment Classification Using Transformer-based Representation Models"
+author: Ernest Essel-Kaitoo
+read_time: true
+comments: true
+share: true
+related: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: "/assets/images/ml-project-banner.jpg"
+  caption: "Exploring prediction with Random Forest"
+class: wide
+---
+
+
 # Problem Overview
 
 Customer reviews are a crucial source of feedback for businesses, but traditional models often struggle to accurately capture the nuances of text-based reviews. In an attempt to address this, this study focuses on sentiment classification of movie reviews using advanced Transformer-based language models and representation learning techniques. The goal is to evaluate and compare the performance of two modern NLP approaches — direct classification using a fine-tuned Transformer and feature-based classification using sentence embeddings. The purpose of utilizing pre-trained models, is to bridge the gap between customer sentiment and business understanding, enabling more informed decision-making and improved customer satisfaction.
