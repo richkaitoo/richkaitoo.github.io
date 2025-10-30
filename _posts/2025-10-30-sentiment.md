@@ -59,7 +59,7 @@ Below indicate the results for the inference.
 | --- | --- | --- | --- | --- |
 | Negative Review | 0.76 | 0.88 | 0.81 | 533 |
 | Positive Review | 0.86 | 0.72 | 0.78 | 533 |
-| Accuracy |  |  |  | 0.80 (1066) |
+| Accuracy |  |  | 0.80 |  1066 |
 | Macro Avg | 0.81 | 0.80 | 0.80 | 1066 |
 | Weighted Avg | 0.81 | 0.80|0.80|1066|
 
@@ -87,7 +87,7 @@ The trained model was tested on unseen data, and performance was evaluated simil
 | --- | --- | --- | --- | --- |
 | Negative Review | 0.85 | 0.86 | 0.85 | 533 |
 | Positive Review | 0.86 | 0.85 | 0.85 | 533 |
-| Accuracy |  |  |  | 0.85 (1066) |
+| Accuracy |  |  | 0.85 |  1066 |
 | Macro Avg | 0.85 | 0.85 | 0.85 | 1066 |
 | Weighted Avg | 0.85 | 0.85 | 0.85 | 1066 |
 
