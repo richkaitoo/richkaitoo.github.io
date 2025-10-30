@@ -91,8 +91,8 @@ The trained model was tested on unseen data, and performance was evaluated simil
 | Weighted Avg | 0.85 | 0.85 | 0.85 | 1066 |
 
 From the output above, the model achieved an accuracy of 85% with 1066 instances, demonstrating consistent performance across both negative and positive reviews with identical macro and weighted averages of 0.85 for precision, recall, and F1-score.
-
-
+![Confusion_Matrix]()
+The model correctly classifies most examples of both classes (0 and 1), with about 15% of predictions incorrect. It shows good overall precision and recall, indicating a strong and balanced binary classifier.
 
 # Evaluation and Analysis
 
