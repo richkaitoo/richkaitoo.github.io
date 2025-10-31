@@ -117,14 +117,14 @@ author:
   avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Transforming Complex Data into Actionable Insights and Intelligent Systems"
   location         : "Phoenix AZ"
-  email            :
+  email            :  "ernselito@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ernselito@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://ernselito.github.io/"
+      # url: "https://ernselito.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -133,10 +133,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/ernselito"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - Label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ernselito/"
 
 # Site Footer
 footer:
