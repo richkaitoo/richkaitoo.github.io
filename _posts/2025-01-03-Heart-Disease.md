@@ -3,21 +3,16 @@ layout: single
 title: "Evaluating Predictive Model Performance for Cardio Health Services Demand: A Comparative Analysis"
 excerpt: "This study compares various machine learning classification models that have the capability to predict heart disease."
 date: 2025-01-03
-categories:
-  - projects
-tags:
-  - data
-  - scientist
-  - science
-  - analyst
-  - Python
-classes: wide
+read_time: true
+comments: true
+share: true
+related: true
 header:
-  overlay_image: /assets/images/heart.jpeg  
-  overlay_filter: 0.3  # darkens the image for better text contrast (0 = no filter, 1 = black)
-  caption: ""  # leave empty if you don’t want a caption
-  show_overlay_excerpt: false
-  image_description: "Heart disease prediction research"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: "/assets/images/ml-project-banner.jpg"
+  caption: "Exploring prediction with Random Forest"
+class: wide
 ---
 
 

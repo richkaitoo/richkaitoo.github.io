@@ -2,22 +2,17 @@
 layout: single
 title: "Effect of Different Optimizers on Classification"
 excerpt: "This study compares various five optimizers"
-date: 2025-10-20
-categories:
-  - projects
-tags:
-  - data
-  - scientist
-  - science
-  - analyst
-  - Python
-classes: wide
+date: 2025-10-10
+read_time: true
+comments: true
+share: true
+related: true
 header:
-  overlay_image: /assets/images/heart.jpeg  
-  overlay_filter: 0.3  # darkens the image for better text contrast (0 = no filter, 1 = black)
-  caption: ""  # leave empty if you don’t want a caption
-  show_overlay_excerpt: false
-  image_description: "Heart disease prediction research"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: "/assets/images/ml-project-banner.jpg"
+  caption: "Exploring prediction with Random Forest"
+class: wide
 ---
 
 # Problem Overview

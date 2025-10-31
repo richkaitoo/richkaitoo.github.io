@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Sentiment Classification Using Transformer-based Representation Models"
-author: Ernest Essel-Kaitoo
+date: 2025-10-10
 read_time: true
 comments: true
 share: true
@@ -10,6 +10,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: "/assets/images/ml-project-banner.jpg"
+  caption: "Exploring prediction with Random Forest"
 class: wide
 ---
 

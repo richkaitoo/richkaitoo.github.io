@@ -54,9 +54,10 @@ You can view or download my resume here:
  
 ---
 
-### 📫 Get in Touch
+## 📫 Get in Touch
 
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-🌐 **LinkedIn:** [linkedin.com/in/ernest-essel-kaitoo](#)  
-🐙 **GitHub:** [github.com/ernest-essel-kaitoo](#)
+📧 **Email:** [ernselito@gmail.com](mailto:ernselito@gmail.com)  
+🌐 **LinkedIn:** [www.linkedin.com/in/ernselito/](https://www.linkedin.com/in/ernselito/)  
+🐙 **GitHub:** [github.com/ernselito](https://github.com/ernselito)
+
 

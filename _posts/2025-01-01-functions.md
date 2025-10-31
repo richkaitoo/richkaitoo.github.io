@@ -3,7 +3,6 @@ layout: single
 title: "BERT Model Compression through Layer Freezing: An Analysis of Performance and Efficiency"
 excerpt: "A walkthrough of my predictive model and how I improved accuracy using feature engineering."
 date: 2025-01-01
-author: Ernest Essel-Kaitoo
 read_time: true
 comments: true
 share: true
