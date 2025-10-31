@@ -27,13 +27,3 @@ permalink: /
 <blockquote>
   <em>“Data is not just numbers — it’s a story waiting to be modeled.”</em>
 </blockquote>
-
-<h2>Latest Posts</h2>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
-    </li>
-  {% endfor %}
-</ul>
