@@ -5,6 +5,6 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Contacts"
-    url: /contacts/
+    url: /contact/
   - title: "About Me"
     url: /about/               # Combine About and Resume into one page or section

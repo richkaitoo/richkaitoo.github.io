@@ -29,7 +29,7 @@ You can view or download my resume here:
 >
   This browser does not support PDFs. 
   Please download the PDF to view it: 
-  <a href="{{ '/assets/files/Ernest_Essel-Kaitoo_Resume.pdf' | relative_url }}">Download Resume</a>.
+  <a href="{{'/assets/files/Ernest_Essel-Kaitoo_Resume.pdf' | relative_url }}">Download Resume</a>.
 </iframe>
 
 ---
