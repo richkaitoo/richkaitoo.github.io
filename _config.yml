@@ -336,4 +336,8 @@ defaults:
       layout: single
       author_profile: True
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
 
