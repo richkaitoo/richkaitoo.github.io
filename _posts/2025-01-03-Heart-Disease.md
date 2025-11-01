@@ -30,6 +30,8 @@ In order to identify the most effective machine learning model for heart disease
 
 ### Full Code: [Github](https://github.com/ernselito/Heart-Attack-Risk-Prediction/blob/main/Heart_Disease_Prediction.ipynb)
 
+### Streamlit APP: [Streamlit](https://ernselito-hearts.streamlit.app)
+
 ##  Dataset
 The dataset that will be used for this project is fetched from [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset). According to the publisher on Kaggle, the dataset consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. The structure of the data is summarized below.
 
