@@ -1,8 +1,19 @@
-Of course! Based on the provided Jupyter notebook, here is a comprehensive portfolio problem statement that outlines the project's goals, methodologies, and outcomes. This statement is designed to be used in a portfolio, resume, or project overview.
-
 ---
-
-### **Portfolio Project: Multi-faceted Movie Recommendation System**
+layout: single
+title: "Multi-faceted Movie Recommendation System"
+excerpt: " "
+date: 2025-01-03
+read_time: true
+comments: true
+share: true
+related: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: "/assets/images/ml-project-banner.jpg"
+  caption: "Exploring prediction with Random Forest"
+class: wide
+---
 
 #### 1. Problem Statement
 
